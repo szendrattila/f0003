@@ -1,0 +1,6 @@
+év = input('mikor születtél?')
+csillag = input ('mi a csillagjegyed?')
+kereszt = input('mi a keresztneved ')
+vezeték = input('mi a vezetékneved? ')
+print('szia ', vezeték , kereszt, ', jó hogy találkoztunk.', sep='')
+print(kereszt, év, '-ben született ezért' ,csillag)
